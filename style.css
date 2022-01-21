@@ -1,0 +1,13 @@
+.panda-carousel-bg,.subscribe{
+    background-color: #fceae8;
+}
+.price{
+    color: #e83e8c;
+}
+.panda-carousel-bg button,.panda-product-card button,.subscribe button{
+    background-color: #e83e8c;
+    border: none;
+}
+.panda-carousel-bg button:hover,.panda-product-card button:hover,.subscribe button:hover{
+    background-color: #e83e8c;
+}
